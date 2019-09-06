@@ -1,0 +1,7 @@
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\obj\Debug\TestDB.csprojAssemblyReference.cache
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\obj\Debug\TestDB.csproj.CoreCompileInputs.cache
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\bin\Debug\TestDB.exe.config
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\bin\Debug\TestDB.exe
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\bin\Debug\TestDB.pdb
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\obj\Debug\TestDB.exe
+C:\Users\Jez Horton\source\repos\week4\Day4\CalculatorDLL\TestDB\obj\Debug\TestDB.pdb
